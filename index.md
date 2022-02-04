@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+# Welcome to My Github Pages!
 
-You can use the [editor on GitHub](https://github.com/Pranjal-Adhikari/translations.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am going to be posting some short stuff on here for fun.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The place can be considered a blog, but is going to be used to keep track of all of my code that I'll make while learning. Below are just some reminders for me.
 
 ### Markdown
 
@@ -30,7 +30,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Pranjal-Adhikari/translations.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your repository settings. The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
